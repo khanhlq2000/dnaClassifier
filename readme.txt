@@ -1,3 +1,6 @@
+
+Decision Tree Learning Algorithm for Classification.
+
 This java package contains source files for codes and dataset itself
 
 It contains .jar file in the root folder which is our executable file.
